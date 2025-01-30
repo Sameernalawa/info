@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "newman-reporter-html": "^1.0.5"
+  },
+  "devDependencies": {
+    "mochawesome": "^7.1.3"
+  }
+}
