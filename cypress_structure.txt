@@ -1,4 +1,4 @@
-Folder PATH listing for volume OS
+what PATH listing for volume OS
 Volume serial number is 0CA2-BC17
 C:\USERS\USER\CYPRESS
 Invalid path - \USERS\USER\CYPRESS
